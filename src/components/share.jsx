@@ -6,7 +6,7 @@ const Share = () => {
   const [dropdown, setDropDown] = useState(false);
 
   return (
-    <div className='flex w-[50%] justify-between mx-auto border-t-gray-200 border-b-gray-200 border-r-0 border border-l-0 mt-2 px-3 py-1'>
+    <div className='flex w-[50%] justify-between mx-auto border-t-gray-200 border-b-gray-200 border-r-0 border border-l-0 mt-2 px-3 py-1 mb-2'>
       <div className='space-x-4'>
         <i className="fa-solid fa-hands-clapping"></i>
         <i className="fa-solid fa-bookmark"></i>
